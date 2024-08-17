@@ -1,0 +1,28 @@
+{
+    "english":"እንግሊዝኛ",
+    "amharic":"አማርኛ",
+    "oromifa":"ኦሮሚፋ",   
+    "login": "ግባ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "pleaseEnterYourEmail": "እባክዎ ኢሜልዎን ያስገቡ",
+    "pleaseEnterYourPassword": "እባክዎ የይለፍ ቃልዎን ያስገቡ" ,
+    "noAccountCreateOne": "መለያ የለም? አንድ ይፍጠሩ" ,
+    "welcomeback": "እንኳን ደህና መጣቹ",
+    "failedToSignIn": "መግባት አልተሳካም።",
+    "user-not-found": "ተጠቃሚ አልተገኘም።",
+    "noUserFound": "ምንም ተጠቃሚ አልተገኘም።",
+    "wrong-password": "የተሳሳተ የይለፍ ቃል",
+    "incorrectPassword": "የተሳሳተ የይለፍ ቃል",
+    "book": "ያስይዙ",
+    "a jouney": "ጉዞ",
+    "journey": "ጉዞ",
+    "from": "ከ",
+    "to": "ወደ",
+    "Search a Journey": "ጉዞ ይፈልጉ"
+    
+    
+
+    
+    
+}

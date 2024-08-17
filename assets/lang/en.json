@@ -1,0 +1,19 @@
+{
+    "english":"English",
+    "amharic":"Amharic",
+    "oromifa":"Oromifa",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "pleaseEnterYourEmail": "Please Enter Your Email",
+    "pleaseEnterYourPassword": "Please Enter Your Password" ,
+    "noAccountCreateOne": "No Account? CreateOne" ,
+    "welcomeback": "Welcome Back",
+    "failedToSignIn": "Failed To Sign In",
+    "user-not-found": "User Not Found",
+    "noUserFound": "No User Found",
+    "wrong-password": "Wrong Password",
+    "incorrectPassword": "Incorrect Password",
+    "noAccountWithEmail": "Email Not Found"
+    
+}

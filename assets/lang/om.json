@@ -1,0 +1,17 @@
+{
+    "english":"Afaan Ingilizii",
+    "amharic":"Afaan Amaaraa",
+    "oromifa":"Oromifa",
+    "login": "Galmaa'i",
+    "email": "Imeelii",
+    "password": "jecha iccitii",
+    "pleaseEnterYourEmail": "Mee Email Keessan Galchaa",
+    "pleaseEnterYourPassword": "Mee Password Keessan Galchaa" ,
+    "noAccountCreateOne": "Herrega Hin Qabu? Tokko Uumi" ,
+    "welcomeback": "Baga Nagaan Dhuftan",
+    "failedToSignIn": "Galchuu Dandeesse",
+    "user-not-found": "Fayyadamaan Hin Argamne",
+    "noUserFound": "Fayyadamaan Hin Argamne",
+    "wrong-password": "Jecha Darbii Sirrii Hin Taane",
+    "incorrectPassword": "Jecha Darbii Sirrii Hin Taane"
+}
